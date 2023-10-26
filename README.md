@@ -33,7 +33,7 @@ c=swap(a,b)
 print('Swapped values are: {} {}'.format(b,a))
 ```
 ## Output:
-(![OUTPUT](<Screenshot 2023-10-20 091625.png>))
+![OUTPUT](<Screenshot 2023-10-20 091625.png>)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
